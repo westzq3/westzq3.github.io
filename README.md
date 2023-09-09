@@ -18,7 +18,9 @@
 </p>
 <hr/>
 <p align="center">
-Minimalistic Gatsby theme, mobile and SEO friendly and supports author, tag and static pages
+This is Qiao Zhang, Database Adminstrator at Old Dominion University.
+I have 17 year experience with Oracle Database, also a expert on MySQL, Postgres, MongoDB, Snowflake, and SQL Server.
+I live in Yorktown VA with my wife and two daughters.
 </p>
 <p align="center">
     <img src="./docs/chrome-mockup.jpg" alt="Ghost Chrome mockup" width="800"/>
