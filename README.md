@@ -23,7 +23,7 @@ I have 17 year experience with Oracle Database, also a expert on MySQL, Postgres
 I live in Yorktown VA with my wife and two daughters.
 </p>
 <p align="center">
-    <img src="./docs/chrome-mockup.jpg" alt="Ghost Chrome mockup" width="800"/>
+    <img src="./docs/photo1.jpg" alt="Ghost Chrome mockup" width="800"/>
 </p>
 <a href="https://gatsby-theme-ghost.netlify.com/" target="_blank">
 <img src="./docs/live-preview.svg" alt="Live Preview" width="160px" height="40px">
