@@ -27,6 +27,4 @@ I live in Yorktown VA with my wife and two daughters.<br>
 <p align="center">
     <img src="./docs/phtot1.jpg" alt="Ghost Chrome mockup" width="300"/>
 </p>
-<a href="./doc/resume2.pdf" target="_blank">
-<img src="./docs/live-preview.svg" alt="Live Preview" width="160px" height="40px">
-</a>
+<a href="./doc/resume2.pdf" target="_blank">Download My Resume</a>
